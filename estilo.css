@@ -1,27 +1,20 @@
-/* Estilo general */
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f9f4;
-    margin: 0;
 }
 
-/* Encabezado */
 header {
     background-color: #590ab3;
     color: white;
     text-align: center;
-    padding: 15px;
 }
 
-/* Menú de navegación */
 nav {
     text-align: center;
     background-color: #ddd;
-    padding: 10px;
 }
 
 nav a {
-    margin: 10px;
     text-decoration: none;
     color: black;
     font-weight: bold;
@@ -31,39 +24,30 @@ nav a:hover {
     color: #4CAF50;
 }
 
-/* Contenido principal */
 main {
-    padding: 20px;
+    text-align: center;
 }
 
-/* Títulos */
+
 h2 {
     color: #333;
 }
 
-/* Imágenes */
+
 img {
-    margin: 10px;
     border-radius: 10px;
 }
 
-/* Listas */
-ul, ol {
-    margin-left: 20px;
-}
 
-/* Tabla */
 table {
-    width: 90%;
-    margin: 20px auto;
     border-collapse: collapse;
     background-color: white;
 }
 
 td, th {
-    padding: 10px;
     text-align: center;
     border: 1px solid black;
+    font-size: 16px;
 }
 
 th {
@@ -71,11 +55,9 @@ th {
     color: white;
 }
 
-/* Footer */
+
 footer {
     background-color: #0f12a5;
     color: white;
     text-align: center;
-    padding: 10px;
-    margin-top: 20px;
 }
