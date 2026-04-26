@@ -54,7 +54,8 @@ ul, ol {
 
 /* Tabla */
 table {
-    margin: auto;
+    width: 90%;
+    margin: 20px auto;
     border-collapse: collapse;
     background-color: white;
 }
