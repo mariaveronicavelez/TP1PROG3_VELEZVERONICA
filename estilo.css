@@ -20,33 +20,25 @@ nav a {
     font-weight: bold;
 }
 
-nav a:hover {
-    color: #4CAF50;
-}
-
-main {
-    text-align: center;
-}
-
-
 h2 {
     color: #333;
 }
 
-
-img {
-    border-radius: 10px;
+ul, ol {
+  font-size: 17px;
+  line-height: 1.8;
 }
 
+li {
+  color: #222222;
+}
 
 table {
-    border-collapse: collapse;
     background-color: white;
 }
 
 td, th {
     text-align: center;
-    border: 1px solid black;
     font-size: 16px;
 }
 
@@ -54,7 +46,6 @@ th {
     background-color: #4CAF50;
     color: white;
 }
-
 
 footer {
     background-color: #0f12a5;
